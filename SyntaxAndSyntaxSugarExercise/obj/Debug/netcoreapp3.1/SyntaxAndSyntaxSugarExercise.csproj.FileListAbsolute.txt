@@ -1,0 +1,13 @@
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.exe
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.deps.json
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.runtimeconfig.json
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.runtimeconfig.dev.json
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.pdb
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.csprojAssemblyReference.cache
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.pdb
+C:\Users\moore\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSyntaxSugarExercise.genruntimeconfig.cache
